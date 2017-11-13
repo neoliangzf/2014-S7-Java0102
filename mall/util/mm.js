@@ -1,9 +1,3 @@
-/*
-* @Author: Rosen
-* @Date:   2017-05-15 15:26:38
-* @Last Modified by:   Rosen
-* @Last Modified time: 2017-05-21 14:58:37
-*/
 
 'use strict';
 var Hogan = require('hogan');
